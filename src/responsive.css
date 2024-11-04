@@ -1,0 +1,340 @@
+@media screen and (max-width: 1460px) {
+  .professional-photo {
+    margin-left: 11rem;
+  }
+
+  .project-second {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 1408px) {
+  .right-border {
+    display: none;
+  }
+
+  .left-border {
+    display: none;
+  }
+
+  .skills {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 1386px) {
+  .header {
+    margin: 4rem 1rem;
+  }
+}
+
+@media screen and (max-width: 1363px) {
+  .title {
+    width: 25rem;
+  }
+
+  .title-description {
+    width: 25rem;
+    display: block;
+  }
+
+  .about-second {
+    margin-left: 27rem;
+    font-size: 0.9rem;
+  }
+
+  .about-photo {
+    height: 18rem;
+    width: 20rem;
+    margin-top: 3rem;
+  }
+
+  .about-third {
+    margin-left: 3rem;
+  }
+
+  .about {
+    height: 53rem;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .header {
+    display: block;
+    margin: 4rem 5rem;
+    height: 78rem;
+  }
+
+  .professional-photo {
+    margin-top: 2rem;
+  }
+
+  .title {
+    width: 25rem;
+  }
+
+  .title-description {
+    width: 25rem;
+    display: block;
+  }
+
+  .about-second {
+    margin-left: 27rem;
+    font-size: 0.9rem;
+  }
+
+  .about-third {
+    margin-left: 3rem;
+  }
+}
+
+@media (max-width: 1190px) {
+  .skill-item {
+    padding: 0px 1rem;
+  }
+}
+
+@media (max-width: 1033px) {
+  .menu-items {
+    display: none;
+    position: absolute;
+    top: 100px;
+    right: 0;
+    background-color: rgb(255, 64, 0);
+    border-radius: 2rem;
+    width: 90%;
+    justify-content: center;
+    text-align: center;
+    margin-right: 2rem;
+  }
+
+  .menu {
+    display: block;
+    font-size: 1.4rem;
+  }
+
+  .menu-items.open {
+    display: flex;
+  }
+
+  .menu-icon {
+    display: block;
+    margin-right: 1rem;
+  }
+
+  .menubar-details {
+    display: none;
+  }
+
+  .items {
+    margin: 2rem 0;
+    transition: background-size 0.4s ease;
+    background: linear-gradient(to bottom, transparent 80%, white 0) center
+      center/0% 100% no-repeat;
+  }
+
+  a {
+    color: white;
+  }
+
+  .social-handles {
+    background-color: black;
+    padding: 1rem;
+    border-radius: 2rem;
+    width: 7rem;
+  }
+
+  .social {
+    background-color: black;
+    padding: 1rem;
+    border-radius: 2rem;
+    width: 7rem;
+    margin-left: 2rem;
+  }
+
+  .sec {
+    display: block;
+  }
+
+  .about {
+    height: 68rem;
+  }
+
+  .title {
+    width: 33rem;
+  }
+
+  .title-description {
+    width: 33rem;
+  }
+
+  .about-first {
+    width: 35rem;
+  }
+
+  .about-second {
+    margin-left: 0;
+  }
+
+  .about-third {
+    margin-left: 10rem;
+  }
+
+  .project-first {
+    height: 19rem;
+    width: 38rem;
+  }
+
+  .project-second {
+    height: 19rem;
+    width: 38rem;
+  }
+}
+
+@media (max-width: 986px) {
+  .heading {
+    font-size: 8rem;
+    line-height: 6rem;
+  }
+
+  .introduction {
+    margin-left: 6rem;
+  }
+
+  .stats {
+    font-size: 3rem;
+  }
+
+  .header {
+    margin-left: 4rem;
+  }
+
+  .intro {
+    margin-left: 3rem;
+  }
+
+  .professional-photo {
+    margin-left: 6.5rem;
+  }
+
+  .skill-sec {
+    display: block;
+  }
+
+  .skill-card {
+    margin-bottom: 2rem;
+  }
+
+  .skill-list {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  .skill-item {
+    margin-bottom: 3rem;
+  }
+}
+
+@media (max-width: 766px) {
+  .header {
+    margin-left: 0;
+  }
+
+  .social-handles {
+    margin-left: 3.5rem;
+  }
+
+  .my-projects {
+    margin-left: 2rem;
+  }
+
+  .projects {
+    height: 67rem;
+  }
+}
+
+@media (max-width: 651px) {
+  .heading {
+    font-size: 5.9rem;
+    line-height: 4.3rem;
+  }
+
+  .introduction {
+    margin-left: 6rem;
+    width: 18rem;
+  }
+
+  .statistics {
+    display: block;
+    width: 25rem;
+    margin-left: 3rem;
+  }
+
+  .stats-first {
+    margin-right: 0;
+    margin-bottom: 2rem;
+  }
+
+  .professional-photo {
+    margin-left: 2rem;
+    height: 39rem;
+    width: 27rem;
+  }
+
+  .header-info {
+    width: 30rem;
+  }
+
+  .menu-items {
+    width: 88%;
+  }
+
+  .sec-name {
+    font-size: 6rem;
+  }
+
+  .sec {
+    margin-left: 2rem;
+  }
+
+  .title {
+    width: 28rem;
+  }
+
+  .title-description {
+    width: 25rem;
+  }
+
+  .about-photo {
+    height: 17rem;
+    width: 17rem;
+  }
+
+  .about-first {
+    width: 28rem;
+  }
+
+  .about-description {
+    width: 27rem;
+  }
+
+  .project-first {
+    height: 13rem;
+    width: 26.3rem;
+  }
+
+  .project-second {
+    height: 13rem;
+    width: 26.3rem;
+  }
+
+  .projects {
+    height: 47rem;
+  }
+
+  .contact {
+    font-size: 1.79rem;
+  }
+}
